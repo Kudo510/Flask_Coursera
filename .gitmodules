@@ -1,0 +1,4 @@
+[submodule "Flask_final_assignment"]
+	branch = main 
+	path = Flask_final_assignment
+	url = https://github.com/Kudo510/DevelopingAIApplicationswithPythonandFlask
